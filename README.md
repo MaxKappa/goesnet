@@ -70,5 +70,5 @@ Questo progetto è distribuito sotto la licenza MIT.
 Vedi il file LICENSE per maggiori dettagli.
 
 ## Contatti
-Per ulteriori informazioni o suggerimenti, sentiti libero di aprire un'issue o contattare @MaxKappa.
+Per ulteriori informazioni o suggerimenti, sentiti libero di aprire un'issue o contattare [MaxKappa](https://github.com/MaxKappa).
 
