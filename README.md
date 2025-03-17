@@ -51,7 +51,7 @@ Il progetto è diviso in due parti principali:
 
 ```bash
 git clone https://github.com/MaxKappa/goesnet.git
-cd social-network
+cd goesnet
 ```
 - Avviare l'intero stack con Docker Compose:
 
