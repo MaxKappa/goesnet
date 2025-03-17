@@ -1,8 +1,7 @@
 # Goesnet
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Docker Compose](https://img.shields.io/badge/Docker-Compose-blue.svg)](https://docs.docker.com/compose/)
-[![Stars](https://img.shields.io/github/stars/tuo-username/social-network?style=social)](https://github.com/MaxKappa/goesnet)
+[![Stars](https://img.shields.io/github/stars/MaxKappa/goesnet?style=social)](https://github.com/MaxKappa/goesnet)
 
 Un semplice social network con **backend** sviluppato in **Go** e **frontend** in **React**.  
 Il progetto include funzionalità per autenticazione, creazione e gestione di post, commenti, like, follow e notifiche, caricamento di immagini con AWS S3.
@@ -44,7 +43,8 @@ Il progetto è diviso in due parti principali:
   AWS_REGION=
   S3_BUCKET=goesnetbucket
 
-- **Node.js (per il frontend) e Go (per il backend):**
+- **Node.js (per il frontend) e Go (per il backend)**
+
 ## Installazione e Avvio
 
 - Clonare il repository:
