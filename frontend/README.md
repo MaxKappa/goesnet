@@ -41,7 +41,7 @@ Utilizza **React Router** per la navigazione, **Material UI** per componenti sti
 
 - Node.js e npm/yarn installati
 
-Il frontend sarà disponibile di solito sulla porta 3000.
+Il frontend sarà disponibile sulla porta 3000.
 
 ## Struttura della directory
 - /components: Componenti riutilizzabili (Navbar, Post, LikeButton, NotificationDropdown, ecc.).
